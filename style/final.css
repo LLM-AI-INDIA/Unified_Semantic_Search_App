@@ -1,0 +1,62 @@
+/* bacgroun colour */
+section.main.st-emotion-cache-uf99v8.ea3mdgi5 {
+    background: white;
+}
+
+.st-emotion-cache-vk3wp9 {
+    /* position: relative; */
+    top: 2px;
+    background-color: #4c85e4;
+    z-index: 999991;
+    min-width: 340px;
+    max-width: 340px;
+    transform: none;
+    transition: transform 300ms ease 0s, min-width 300ms ease 0s, max-width 300ms ease 0s;
+}
+
+/* header colur */
+header.st-emotion-cache-18ni7ap.ezrtsby2 {
+    background:white;
+}
+
+/* login Alignment */
+.st-emotion-cache-r421ms.e10yg2by1 {
+    background: white;
+    margin-left: 0px;
+    width: 100%;
+}
+
+/* sidebar clear button */
+input[type="submit"] {
+    width: 100%;
+    height: 45px;
+    border-radius: 10px;
+    background: #32CD32;
+    border-color: #32CD32;
+    color:white;
+}
+
+
+/* chat body margin alignment */
+.block-container.st-emotion-cache-z5fcl4.ea3mdgi4 {
+    margin-top: -87px;
+}
+/* chat button colour */
+button.st-emotion-cache-7ym5gk.ef3psqc7 {
+    background-color: #69d2e7;
+    color: white;
+}
+
+/* sidebar top alignment */
+.st-emotion-cache-16txtl3.eczjsme4 {
+    margin-top: -40px;
+}
+
+button.st-emotion-cache-7ym5gk.ef3psqc12 {
+    background: limegreen;
+    color: white;
+}
+
+.block-container.st-emotion-cache-z5fcl4.ea3mdgi2 {
+    margin-top: -50px;
+}

@@ -1,0 +1,11 @@
+langchain_core==0.3.12
+langchain_openai==0.2.2
+openai==1.52.0
+opencv-python-headless==4.10.0.84
+pinecone==5.3.1
+python-dotenv==1.0.1
+streamlit==1.28.2
+pinecone-client == 5.0.1
+googleapis-common-protos==1.65.0
+grpcio-tools==1.56.0
+protoc-gen-openapiv2==0.0.1
